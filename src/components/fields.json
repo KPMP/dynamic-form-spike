@@ -1,0 +1,32 @@
+{
+	"values" : [{ 
+	  "name": "firstName",
+	  "label": "First Name",
+	  "component": "input",
+	  "type": "text"
+	},
+	{
+	  "name": "lastName",
+	  "label": "Last Name",
+	  "component": "input",
+	  "type": "text"
+	},
+	{
+	  "name": "occupation",
+	  "label": "Occupation",
+	  "component": "input",
+	  "type": "text"
+	},
+	{
+	  "name": "sex",
+	  "label": "Male",
+	  "component": "input",
+	  "type": "checkbox"
+	},
+	{
+	  "name": "sex",
+	  "label": "Female",
+	  "component": "input",
+	  "type": "checkbox"
+	}]
+}
